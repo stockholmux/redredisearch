@@ -9,7 +9,7 @@
   ],
   "author": "Kyle Davis",
   "dependencies": {
-    "redis": "^2.7.1"
+    "redis": "^2.8.0"
   },
   "devDependencies": {
     "yargs": "^7.0.2",
