@@ -12,12 +12,12 @@
     "redis": "^3.0.0"
   },
   "devDependencies": {
-    "yargs": "^7.0.2",
-    "async": "^2.3.0",
+    "async": "^2.6.3",
+    "express": "^4.17.1",
     "matcha": "^0.6.0",
+    "request": "^2.88.0",
     "should": "^3.3.2",
-    "request": "^2.81.0",
-    "express": "^4.15.3"
+    "yargs": "^7.0.2"
   },
   "main": "index",
   "repository": {
